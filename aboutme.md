@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Dome interesting things about me
+subtitle: Some interesting things about me
 ---
 
 My name is Eric Bixby. I have the following qualities:
