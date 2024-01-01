@@ -2,7 +2,6 @@
 layout: post
 title: ASB Using AI
 subtitle: Generate code for AutoSortBookmarks using chatGPT
-tags: [asb] [autosortbookmarks] [ai] [chatgpt]
 ---
 
 It has been a while since I've worked on the [AutoSortBookmarks (ASB) add-on For Firefox](https://github.com/eric-bixby/auto-sort-bookmarks-webext).
