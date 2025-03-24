@@ -5,6 +5,7 @@ subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
+published: false
 comments: true
 mathjax: true
 author: Bill Smith
